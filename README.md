@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&fontSize=90" width=1000>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&fontSize=90" width=1000>
 
 <!---->
 <h2 align="center">
@@ -51,3 +51,6 @@
  💬 Phone: (+1) 865 334 4858
  
  📫 Email: mv.thienphu@gmail.com
+ 
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=90" width=1000>
+
