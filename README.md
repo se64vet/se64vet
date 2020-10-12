@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&fontSize=90)
 
 <!---->
-<h2>My name is Ethan mai</h2>
-<em>A Designer who learning to become a Full-stack Web developer</em>
+<h2 align="center">👋 My name is Ethan mai</h2>
+<p align="center"><em>A Designer who learning to become a Full-stack Web developer</em></p>
 
 <hr>
 
