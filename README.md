@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
 
 <!---->
 <h2>My name is Ethan mai</h2>
