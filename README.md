@@ -26,7 +26,7 @@
   
   * Freelance Designer
     * Some of my Works
-      * ####
+      *[FelixHome - Ecommerce website](felixhome.netlify.app)
       
   ## 🛠️ **Languages & Tools:**
 
@@ -48,9 +48,9 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
       
- 💬 Phone: (+1) 865 334 4858
+ 💬 Phone: (+1) 865 347 9653
  
- 📫 Email: mv.thienphu@gmail.com
+ 📫 Email: dante.mai96@gmail.com
  
  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=90" width=1000>
 
