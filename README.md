@@ -3,7 +3,7 @@
 
 <!---->
 <h2 align="center">
-<img src="https://github.com/se64vet/se64vet/blob/main/av.jpg" width=120> 👋 My name is Dante Mai</h2>
+<img src="https://github.com/se64vet/se64vet/blob/main/p2.jpg" width=120> 👋 My name is Dante Mai</h2>
 <p align="center"><em>A Designer who learning to become a Full-stack Web developer</em></p>
 
 <hr>
