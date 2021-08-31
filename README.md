@@ -25,8 +25,9 @@
     * [Review Mi Mix phone (2016)](https://www.thegioididong.com/tin-tuc/ung-dung-giup-bien-thiet-bi-ios-thanh-touch-bar-cho-laptop-922871)
   
   * Freelance Designer
-    * Some of my Works
-      * [FelixHome - Ecommerce website](felixhome.netlify.app)
+    >Some of my Works
+     * [FelixHome - Ecommerce website](https://felixhome.netlify.app)
+     * [All Blues Lounge - React Website for Bar-Restaurant](https://allblues.netlify.app)
       
   ## 🛠️ **Languages & Tools:**
 
