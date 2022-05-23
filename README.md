@@ -1,7 +1,7 @@
 <!--Heading-->
 <div align="center">
 <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy-downsized.gif"></img>
-<h2>Hello World! I'm Dante</h2>
+<h2>👋 Hello World! <br>I'm Dante</h2>
 </div>
 
 <div align="left"> 
