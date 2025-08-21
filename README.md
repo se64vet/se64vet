@@ -1,12 +1,3 @@
-<!--Header-->
-<div align="center">
-<h1>Lukas Vu Mai.</h1>
- <h4> <a href="mailto:lukasvm53@gmail.com" target="_blank">lukasvm53@gmail.com</a>  |  <a href="www.lukasvm.com">www.lukasvm.com</a></h4>
-</div>
-
-<!--About Me-->
-<div align="left"> 
-<h3>ABOUT ME</h3>
 <hr>
 <em>As a full-stack-driven developer, I create responsive web applications using diverse frameworks and tools, delivering user-friendly UIs and robust back-end services that meet their needs and expectations.
 <br><br>
