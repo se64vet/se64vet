@@ -1,53 +1,28 @@
-<hr>
-<em>As a full-stack-driven developer, I create responsive web applications using diverse frameworks and tools, delivering user-friendly UIs and robust back-end services that meet their needs and expectations.
-<br><br>
-I am also pursuing my Bachelor degree at the University of Tennessee, where I am learning the fundamentals of computer science, programming, and data structures. I have completed projects and assignments using languages such as JavaScript, C++, HTML, CSS, SQL, and no-SQL. I am very excited to work in an innovative environment and eager to join a driven team of developers to contribute technical expertise.
-</em>
-</div>
+I build software around problems I find interesting — from data and AI projects to small tools that make my own life easier.
 
-<!--Experiences-->
-<div>
- <h3>LANGUAGES | TOOLS</h3>
- <hr>
- <div>
-  <h5>Languages: </h5>
-  <span>HTML, CSS, JavaScript, TypeScript, C, and C++</span>
-  <h5>Frameworks & Libraries: </h5>
-  <span>React, Next, Node, Express, Redux, Zustand, Mongoose, Prisma, GraphQL, MongoDB</span>
-  <h5>Others</h5>
-  <span>Figma, Adobe Illustrator, Adobe XD, Sketcher, Adobe Photoshop</span>
- </div>
+My background is in Data Science, software development, and design. I mainly work with Python, SQL, JavaScript, and TypeScript, and enjoy working across data, backend systems, AI, and user interfaces.
 
-<!--Others-->
-<div>
-<h3>OTHERS EXPERIENCES</h3>
-<hr>
-<em>I used to work in many different industries, which gave me regular opportunities to pick up new skills These were really worthwhile experiences that shaped who I am now.</em>
- <!---->
- <h4> Voluntary Designer </h4>
-   <em>Design/ Localize Bible verse at Church.Life for Bible App.</em>
- 
- <!---->
- <h4> Freelance Designer </h4>
-   <em>Working with private customers to deliver graphical products such as web UX/UI, graphic posters, banners, etc. </em>
-   <li><a href="https://dribbble.com/se64vet">Dribble Profile</a></li>
- 
- <!---->
- <h4> Tech Reviewer</h4>
-  <em>Hands-on with technological devices such as a laptop and a phone, and write articles about experiences.</em>
-  
-  <h5>Some of my writings</h5>
-   <li>[2017]<a href="https://www.thegioididong.com/tin-tuc/ung-dung-giup-bien-thiet-bi-ios-thanh-touch-bar-cho-laptop-963121">
-   4G and 5G speed comparison [Infographic]</a></li>
-   <li>[2017]<a href="https://www.thegioididong.com/tin-tuc/ung-dung-giup-bien-thiet-bi-ios-thanh-touch-bar-cho-laptop-955282">
-   Review Samsung Galaxy S8</a></li>
-   <li>[2016]<a href="https://www.thegioididong.com/tin-tuc/ung-dung-giup-bien-thiet-bi-ios-thanh-touch-bar-cho-laptop-917100">
-   iPhone 7+ and Google Pixel XL comparison </a></li>
+### What I've Built
 
- <!---->
- <h4> Tech Content Writer </h4>
-  <em>Writing/ Translating tech-related news and articles for a local technology news website</em>
-</div>
+**Personal tools**
 
-</div>
+* A finance tracker that brings balances from multiple accounts into one place.
+* A screen-time tool that uses deliberate friction, authentication, and problem-solving to make impulsive changes harder.
 
+**Data & AI**
+
+* Fraud detection using SMOTE, LightGBM, and neural networks.
+* Healthcare data analysis and interactive dashboards.
+* Vietnamese-to-English live translation using speech recognition and AI.
+
+**Software**
+
+* Full-stack applications using React, Next.js, Node.js, and databases.
+
+### Beyond Code
+
+Before moving into software and data, I spent several years in **graphic design and technology writing** — designing UI/UX and digital graphics, and writing hands-on technology reviews and articles.
+
+That background shaped how I approach software: **good engineering should solve the problem, but good products should also make sense to the person using them.**
+
+[Dribbble](https://dribbble.com/se64vet) · [Tech Writing](https://www.thegioididong.com/tin-tuc/ung-dung-giup-bien-thiet-bi-ios-thanh-touch-bar-cho-laptop-963121)
