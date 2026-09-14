@@ -11,7 +11,7 @@ My background is in Data Science, software development, and design. I mainly wor
 
 **Data & AI**
 
-* Fraud detection using SMOTE, LightGBM, and neural networks.
+* Finance fraud detection using SMOTE, LightGBM, and neural networks.
 * Healthcare data analysis and interactive dashboards.
 * Vietnamese-to-English live translation using speech recognition and AI.
 
